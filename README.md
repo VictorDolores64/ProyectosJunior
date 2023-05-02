@@ -137,7 +137,7 @@ def ganador(usuario, computadora):
 # Juego principal
 while True:
     # Obtener las elecciones
-    usuario = oE()
+    usuario = oU()
     computadora = oC()
 
     # Mostrar las elecciones
